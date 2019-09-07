@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: user_portal
+Implementation-Version: 0.0.1
+Built-By: Antu
+Implementation-Vendor-Id: com.bit_mascot
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_161
+Main-Class: ${start-class}
+
